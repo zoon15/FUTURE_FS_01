@@ -3,7 +3,7 @@
 Personal portfolio website built with Node.js, Express, HTML/CSS/JS.
 
 ## Live Demo
-[View Live](https://future-fs-01-xntf.onrender.com/contact.html)
+[View Live](https://future-fs-01-xntf.onrender.com)
 
 ## Tech Stack
 - Node.js + Express
